@@ -1,6 +1,12 @@
 # am-cf-trojan
 这是Cloudflare搭建Trojan节点自建优选域名生成订阅节点免费科学上网
 
+- AM科技官网：[https://gw.809098.xyz](官网)
+- YouTube：[https://youtube.com/@AM_CLUB](AM科技)
+- Telegram：[https://t.me/AM_CLUBS](AM_CLUBS)
+- Github：[https://github.com/ansoncloud8](ansoncloud8)
+- VLESS订阅信息：[节点订阅信息](https://worker.amcloud.filegear-sg.me/866853eb-5293-4f09-bf00-e13eb237c655)
+
 ### 变量说明
 
 | 变量名     | 示例                                                         | 备注                                                         |
