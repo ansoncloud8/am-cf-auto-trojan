@@ -1,4 +1,6 @@
 # am-cf-trojan
+https://github.com/ansoncloud8/am-cf-sub-rss
+
 这是Cloudflare搭建Trojan节点自建优选域名生成订阅节点免费科学上网
 
 - 官网教程：[AM科技](https://am.809098.xyz)
@@ -26,3 +28,14 @@
 | PS         | 【请勿测速】                                                 | 节点名备注消息                                               |
 | PROXYIP    | ts.hpc.tw                                        | 默认分配的ProxyIP, 多ProxyIP将随机分配(支持多元素, 元素之间使用`,`作间隔) |
 | CMPROXYIPS | ts.hpc.tw:HK                              | 识别HK后分配对应的ProxyIP(支持多元素, 元素之间使用`,`作间隔) |
+
+
+
+ # 
+<details><summary><strong> [点击展开] 赞赏支持 ~🧧</strong></summary>
+*我非常感谢您的赞赏和支持，它们将极大地激励我继续创新，持续产生有价值的工作。*
+  
+- **TRC20:** `TWTxUyay6QJN3K4fs4kvJTT8Zfa2mWTwDD`
+  
+</details>
+
