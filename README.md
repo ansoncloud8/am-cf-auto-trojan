@@ -1,5 +1,8 @@
-# am-cf-trojan
-https://github.com/ansoncloud8/am-cf-sub-rss
+# [am-cf-auto-trojan](https://github.com/ansoncloud8/am-cf-auto-trojan)
+▶️ **新人[YouTube](https://youtube.com/@AM_CLUB)** 需要您的支持，请务必帮我**点赞**、**关注**、**打开小铃铛**，***十分感谢！！！*** ✅
+</br>🎁 不要只是下载或Fork。请 **follow** 我的GitHub、给我所有项目一个 **Star** 星星（拜托了）！你的支持是我不断前进的动力！ 💖
+</br>✅**解锁更多技术请访问[【个人博客】](https://am.809098.xyz)**
+#
 
 这是Cloudflare搭建Trojan节点自建优选域名生成订阅节点免费科学上网
 
